@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      16 mins               ███████████████░░░░░░░░░░   60.30 %
-Kotlin     9 mins                ████████▓░░░░░░░░░░░░░░░░   34.76 %
-Markdown   1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
